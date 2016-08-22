@@ -37,9 +37,5 @@ Call to completely remove button
 
 `hide()`
 
-`addClassToButton(class)`
-
-`removeClassFromButton(class)`
-
 # License
 This add-on is licensed under the MPLv2. See the `LICENSE` file for details.
