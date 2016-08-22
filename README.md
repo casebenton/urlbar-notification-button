@@ -28,7 +28,9 @@ const button = new Button(FirefoxWindow, onClickCallbackFn, settings);
 ```
 
 Methods:
+
 `destroy()`
+
 Call to completely remove button
 
 `show()`
