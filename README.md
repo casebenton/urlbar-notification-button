@@ -31,8 +31,6 @@ Methods:
 
 `destroy()`
 
-Call to completely remove button
-
 `show()`
 
 `hide()`
