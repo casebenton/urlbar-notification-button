@@ -24,7 +24,7 @@ const settings = {
   iconLocation, // place within data/ of your add-on directory,
 };
 
-new Button(FirefoxWindow, onClickCallbackFn, settings);
+const button = new Button(FirefoxWindow, onClickCallbackFn, settings);
 ```
 
 Methods:
