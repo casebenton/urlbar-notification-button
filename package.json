@@ -1,5 +1,5 @@
 {
-  "name": "url-bar-notification-button",
+  "name": "urlbar-notification-button",
   "version": "1.0.2",
   "description": "An add-on API for creating notification buttons in the Firefox url bar",
   "main": "lib/index.js",
